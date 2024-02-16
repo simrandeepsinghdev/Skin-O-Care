@@ -1,2 +1,3 @@
 # Skin-O-Care
-ML project
+ML Project
+Skin diseases detection using machine learning
