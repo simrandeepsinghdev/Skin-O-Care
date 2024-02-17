@@ -4,7 +4,7 @@
 This project utilizes Azure services for the backend and HTML, CSS, and JavaScript for the frontend for skin disease detection using machine learning.
 
 <h2>Overview</h2>
-Skin diseases affect millions of people worldwide, and early detection is crucial for effective treatment. This project aims to develop a machine-learning model for skin disease detection using image analysis. Azure services are used for the backend, including storage and a RESTful API, while the frontend is built using HTML, CSS, and JavaScript.
+Skin diseases affect millions of people worldwide, and early detection is crucial for effective treatment. This project aims to develop a machine-learning model for skin disease detection using image analysis. Azure services are used for the backend, including storage and a RESTful API, while the frontend is built using HTML, CSS, JavaScript and bootstrap.
 
 <h2>Azure Services Used</h2>
 Azure Storage: Used to store the dataset of skin disease images. Blob storage is utilized for efficient storage and retrieval of images.
