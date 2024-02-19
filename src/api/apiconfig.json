@@ -1,0 +1,11 @@
+{
+  "CustomVisionAPI": {
+    "Url": "url",
+    "PredictionKey": "key"
+  },
+  "AzureStorageApi": {
+    "SasToken" : "token",
+    "ContainerName" : "imgcontainer",
+    "StorageAccountName" : "skinimagesstorage"
+  }
+}
